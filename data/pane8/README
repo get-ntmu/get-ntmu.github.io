@@ -4,4 +4,9 @@ NTMU ADAPTATION: realerico
 -----------------------
 DESCRIPTION: This pack includes resources from Windows 8, for Windows 10.
 
+CHANGES FROM 1.0.3:
+- Added volume icons (mmres.dll)
+- Fixed the off-center dropdown button
+- Added comdlg32.dll from 8x
+
 NOTE: When done applying, head up top on the "Tools" menu, select "Clear Icon Cache", and preferably reboot your machine to see all the changes.
