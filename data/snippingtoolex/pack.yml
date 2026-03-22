@@ -1,0 +1,11 @@
+name: SnippingToolEx
+author:
+  username: ware_1234
+  display: Ware
+images:
+  - thumbnail.png
+versions:
+  - version: 1.0.0.1
+    date: 2025/03/22 17:40
+  - version: 1.0.0.0
+    date: 2025/01/30 02:40
