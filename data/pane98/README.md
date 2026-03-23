@@ -1,6 +1,6 @@
-ORIGINAL RESOURCES: Pane2K (Deporitazz) 
-ORIGINALLY MODIFIED BY: arceus 
-MODIFIED (AGAIN) BY: micro 
+ORIGINAL RESOURCES: Pane2K (Deporitazz)  
+ORIGINALLY MODIFIED BY: arceus  
+MODIFIED (AGAIN) BY: micro  
 ----------------------- 
 DESCRIPTION: This pack includes resources from Windows 98, for Windows 10. Modified from Pane2k 
 
