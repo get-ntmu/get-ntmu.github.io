@@ -5,6 +5,8 @@ author:
 images:
   - thumbnail.png
 versions:
+  - version: 0.9.0.6
+    date: 2026/08/30 00:05
   - version: 0.9.0.5
     date: 2026/03/21 19:12
   - version: 0.9.0.4
