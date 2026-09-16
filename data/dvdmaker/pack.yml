@@ -1,0 +1,9 @@
+name: DVD Maker (modern Windows)
+author:
+  username: w7f-User
+  display: w7f
+images:
+  - thumbnail.png
+versions:
+  - version: 1.0.0
+    date: 2026/5/21 20:30
