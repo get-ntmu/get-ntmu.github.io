@@ -22,12 +22,18 @@
     username: kfh83
     display: kfh83
   date: 2025/05/15 03:09
+- id: pane98
+  name: Pane98 Resource pack
+  author:
+    username: micro2547
+    display: micro
+  date: 2026/03/21 19:12
 - id: pane7
   name: Pane7 Resource pack
   author:
     username: kfh83
     display: kfh83
-  date: 2025/05/18 22:11
+  date: 2026/04/12 22:08
 - id: winXP-winhlp32
   name: Windows XP Help Viewer
   author:
@@ -51,7 +57,7 @@
   author:
     username: kfh83
     display: kfh83
-  date: 2025/05/22 11:42
+  date: 2026/09/13 01:07
 - id: briefcase
   name: Briefcase
   author:
@@ -94,3 +100,16 @@
     username: windowsuser688
     display: windowsuser688
   date: 2025/12/28/10:44  
+- id: panevista
+  name: PaneVista Resource pack
+  author:
+    username: ImSwordQueen
+    display: ImSwordQueen
+  date: 2025/12/31 16:00
+- id: snippingtoolex
+  name: SnippingToolEx
+  author:
+    username: ware_1234
+    display: Ware
+  date: 2025/03/22 17:40
+

@@ -1,6 +1,11 @@
 <h1>Download</h1>
-<p>Below is a list of downloads for NTMU.</p>
 {% if releases %}
+<h2>
+    Latest version ({{ releases[0].name }})<br>
+    <a href="{{ releases[0].download_x64 }}">Download for x64</a><br>
+    <a href="{{ releases[0].url }}">Release notes</a>
+</h2>
+<h3>All versions</h3>
 <table>
     <tbody>
         <tr>
@@ -22,9 +27,7 @@
                 <a href="{{ release.url }}">See on GitHub</a>
             </td>
             <td>
-                {% if release.download_x64 %}
                 <a href="{{ release.download_x64 }}">x64</a>
-                {% endif %}
             </td>
         </tr>
         {% endfor %}
