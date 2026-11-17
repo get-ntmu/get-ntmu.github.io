@@ -1,27 +1,42 @@
-Windows XP High-resolution Icon And Resource Pack
-+
+Windows XP High-resolution Merged .ico Icon And Resource Pack
 
 By XPeriencedTang06, based on PaneXP
+
 High-res XP icon remakes by marchmountain
+
 Vertical style XP folders by viictor
+
 Extra overlay icons by graywiz
 
+-----
+
 Original PaneXP pack: travis (travy-patty)
+
 PaneXP NTMU adaptation: kfh83
+
 PaneXP modified by: micro
 
+-----
+
 Software used:
+
 ImageMagick
+
 Adobe Photoshop
+
 Advanced Renamer
+
 Resource Hacker
+
 XnConvert
+
 Icr Fractal's .ico merger (Formerly)
 
 -----------------------
+
 XPerience the love of the iconic Windows XP icons in rich HD!
-With over 500+ unique in .ico format, now dynamically resizable,
-it merges the original icons from WinXP with the high-res remakes
+With over 1000+ Windows 10 icon replacements in .ico format, now dynamically resizable,
+it merges the original icons from Windows XP with the high-res remakes
 by marchmountain to deliver the most modern XP icon pack ever!
 
 NOTE: This icon and resource pack is for Windows 10 ONLY. I have tested it on Windows 11 and unfortunately, it gave lots of issues and I don't have the time to fix it right now, but if you're on Windows 11, At least you can still customize your folders and shortcuts from the "Icons" folder.
